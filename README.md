@@ -23,10 +23,11 @@ Visual components and Python
 
 
 ## Program
-
+```
 DEVELOPED BY : Naveen kumar V
 REGISTER NO : 212223230140
-
+```
+```
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -64,7 +65,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+```
 
 ## Output
 ![243261541-d61c45cf-04e3-4052-aeb4-ebb3cbe9ac2d](https://github.com/user-attachments/assets/7bc6f8ef-5f09-4855-984a-a6d7463505fa)
